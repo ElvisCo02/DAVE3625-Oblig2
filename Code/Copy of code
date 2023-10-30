@@ -60,3 +60,11 @@ input_date = '2025-11-01'
 predicted_price, score = predict_stock_price(input_date)
 print(f"Predicted stock price for {input_date}: ${predicted_price:.2f}")
 print(f"Prediction percentage score (R-squared): {score:.4f}")
+
+# output:
+#Predicted stock price for 2023-11-01: $213.79
+#Prediction percentage score (R-squared): 0.1485
+#Predicted stock price for 2024-11-01: $259.80
+#Prediction percentage score (R-squared): 0.1485
+#Predicted stock price for 2025-11-01: $305.81
+#Prediction percentage score (R-squared): 0.1485
