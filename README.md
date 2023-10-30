@@ -15,9 +15,9 @@ Predict stock market price for TESLA. I want you to make a prediction algorithm 
 
 Predict passenger data for Ruter Use the same data set given to you in assignment 1. I want you to make a prediction algorithm which predicts the number of passengers on a specific date for a specific bus (pick any one). Input should be date and output will be number of passengers You should also show the prediction percentage score. Data file: Ruter_data.csv
 
-Note:
-- vi velger stock market price og skal bruke regression.
 
+# Documentation:
+We choose the use case involving stock market price for TESLA and will use a regression algorithm.
 
-Why we choose regression for this use case:
+Why we choose regression for this use case?:
 To predict the stock price for Tesla on a specific date, a regression algorithm would be more suitable. Regression models are designed to predict continuous values, making them well-suited for predicting stock prices, which involve continuous numerical data.
