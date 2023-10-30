@@ -20,4 +20,4 @@ Note:
 
 
 Why we choose regression for this use case:
-...
+To predict the stock price for Tesla on a specific date, a regression algorithm would be more suitable. Regression models are designed to predict continuous values, making them well-suited for predicting stock prices, which involve continuous numerical data.
